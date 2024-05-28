@@ -5,6 +5,8 @@
 
 This project aims to improve the product descriptions of a WooCommerce store using AI. By leveraging the OpenAI API, we can optimize product descriptions to maintain a consistent and appealing format.
 
+**Note:** This is the initial version of the project, which currently focuses on enhancing product descriptions. Future updates will include enhancements for categories, tags, and blog entries.
+
 ## Project Structure
 
 - **data/**: Contains CSV files with data for products.
